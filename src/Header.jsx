@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import "./Assets/css/Navigation.min.css";
+import React, { Component } from 'react';
+import './Assets/css/Header.min.css';
 
-class Navigation extends Component {
+class Header extends Component {
   render() {
     return (
       <nav className="navigation">
@@ -16,4 +16,4 @@ class Navigation extends Component {
   }
 }
 
-export default Navigation;
+export default Header;
