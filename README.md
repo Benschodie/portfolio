@@ -4,7 +4,7 @@ This is my #100DaysOfCode Project!
 
 My Goals are:
 
-🚀 Intermediate Level in Flexbox & Css Grid
+🚀 Intermediate Level in Flexbox & CSS Grid
 🚀 Become better in JavaScript Fundamentals
 🚀 Learn React
 
